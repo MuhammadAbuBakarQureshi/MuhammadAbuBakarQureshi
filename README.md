@@ -63,9 +63,3 @@
 
 ###
 <be>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAbuBakarQureshi&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
-</div>
-
-###

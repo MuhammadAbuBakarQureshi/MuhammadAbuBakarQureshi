@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **qureshimuhammadabubakar@gmail.com**
 
@@ -16,13 +16,13 @@
 <h3 align="left">Connect with me:</h3>
  
 <div align="left">
-  <a href="https://x.com/m_bakarqureshi" target="_blank">
+  <a href="https://x.com/BakarQureshii" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://linkedin.com/in/muhammad-abubakar-qureshi-965146287" target="_blank">
+  <a href="https://www.linkedin.com/in/bakar-qureshi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/qureshi.muhammadabubakar" target="_blank">
+  <a href="https://www.instagram.com/bakar_qureshii/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
@@ -45,7 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
 </div>
-
 
 <h3 align="left">Tools :</h3>
 

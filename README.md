@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD ABU BAKAR QURESHI</h1>
-<h3 align="center">A passionate developer from Pakistan.</h3>
+<h3 align="center">Software Engineer | Full Stack Dev | 🤖 ML Explorer | 🇵🇰 From Pakistan</h3>
+
+<br>
 
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
 
-- 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **qureshimuhammadabubakar@gmail.com**
-
-- ⚡ Fun fact **Learning programming has turned me into a master of "Ctrl + Z" - the ultimate undo command, saving me from countless coding catastrophes! 🤖⌨️🔙**
+- 🎓 Undergrad Software Engineer, building stuff that actually works.
+- 🧠 Currently diving deep into **Machine Learning** and **Full-Stack Web Dev**.
+- 📚 Obsessed with clean code, solid logic, and making things users love.
+- ⚡ Fun fact: I treat `Ctrl + Z` like a time machine... and it *saves lives*.
 
 <br>
 
@@ -62,3 +64,9 @@
 </div>
 
 <be>
+
+---
+ 
+<p align="center">
+  <i>"Consistency beats motivation. I just show up and code—simple."</i>
+</p>

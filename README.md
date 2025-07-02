@@ -10,8 +10,11 @@
 
 
 - 🎓 Undergrad Software Engineer, building stuff that actually works.
+  
 - 🧠 Currently diving deep into **Machine Learning** and **Full-Stack Web Dev**.
+
 - 📚 Obsessed with clean code, solid logic, and making things users love.
+
 - ⚡ Fun fact: I treat `Ctrl + Z` like a time machine... and it *saves lives*.
 
 <br>

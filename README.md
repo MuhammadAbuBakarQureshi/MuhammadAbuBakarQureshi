@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD ABU BAKAR QURESHI</h1>
 <h3 align="center">A passionate developer from Pakistan.</h3>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

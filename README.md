@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MUHAMMAD ABU BAKAR QURESHI</h1>
+<h1 align="center">Hi 👋, I'm BAKAR QURESHI</h1>
 <h3 align="center">Software Engineer | Full Stack Dev | 🤖 ML Explorer | 🇵🇰 From Pakistan</h3>
 
 <br>

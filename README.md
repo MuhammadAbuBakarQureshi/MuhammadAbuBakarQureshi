@@ -95,9 +95,10 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" width="52" alt="GitHub"/>
 </div>
-
 ---
  
 <p align="center">
   <i>"Consistency beats motivation. I just show up and code—simple."</i>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAbuBakarQureshi)

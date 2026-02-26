@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm BAKAR QURESHI</h1>
 <h3 align="center">Software Engineer | Full Stack Dev | 🤖 ML Explorer | 🇵🇰 From Pakistan</h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAbuBakarQureshi)
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -100,5 +101,3 @@
 <p align="center">
   <i>"Consistency beats motivation. I just show up and code—simple."</i>
 </p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAbuBakarQureshi)

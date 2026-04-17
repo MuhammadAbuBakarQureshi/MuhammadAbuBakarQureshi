@@ -44,34 +44,47 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
 </div>
 
+
 <br>
 
-<h3 align="left"> 📚 Frameworks, Libraries & Runtimes </h3>
+<h3 align="left">AI / ML :</h3>
 <div align="left">
   <!-- Icon-based -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=express" height="40" />
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
 </div>
 
-<p>
-  <!-- Badge-style (rectangle) -->
-  <img src="https://img.shields.io/badge/EJS-grey?style=for-the-badge&logo=javascript" height="28"/>
-  <img width="12"/>
-  <img src="https://img.shields.io/badge/SFML-C++%20Library-green?style=for-the-badge&logoColor=white" height="28"/>
-</p>
 
-<br>
+<h3 align="left">Web Development :</h3>
+<div align="left">
+
+
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  
+  <!-- Badge-style (rectangle) -->
+  <p>
+      <img src="https://img.shields.io/badge/EJS-grey?style=for-the-badge&logo=javascript" height="28"/>
+  </p>
+
+</div>
+
 
 <h3 align="left"> 🗄️ Databases </h3>
 
@@ -83,7 +96,6 @@
 
 > *Actively using MongoDB in full-stack projects. Familiar with MySQL basics.*
 
-<br>
 
 <h3 align="left"> 🛠️ Tools & IDEs </h3>
 
@@ -101,6 +113,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+</div>
+
+
+
+<h3 align="left">Other Libraries & Tools :</h3>
+<div align="left">
+    <img src="https://img.shields.io/badge/SFML-C++%20Library-green?style=for-the-badge&logoColor=white" height="28"/>
 </div>
 
 ---
